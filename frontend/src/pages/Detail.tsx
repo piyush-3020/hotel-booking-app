@@ -9,14 +9,14 @@ const Detail = () => {
 
   const { data: hotel } = useQuery(
     "fetchHotelById",
-    () => apiClient.fetchMyHotelById(hotelId || ""),
+    () => apiClient.fetchHotelById(hotelId || ""),
     {
       enabled: !!hotelId,
     }
   );
 
   if (!hotel) {
-    return <><h1 className="text-3xl">Sign in to view the details 🙄</h1></>;
+    return <><h1 className="text-3xl">Loading the details 🙄</h1></>;
   }
 
   return (
