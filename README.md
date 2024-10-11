@@ -1,6 +1,6 @@
 # EzHolidays - Hotel Booking Website
 
-[![Website](https://img.shields.io/badge/website-online-brightgreen)](https://ezholidays.onrender.com)
+[![Website](https://img.shields.io/badge/website-online-brightgreen)](https://ezholidays.up.railway.app/)
 
 EzHolidays is a comprehensive hotel booking platform that allows users to find, book, and manage holiday accommodations with ease. The website provides a seamless user experience, making holiday planning stress-free and enjoyable.
 
