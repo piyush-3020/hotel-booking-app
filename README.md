@@ -46,7 +46,7 @@ EzHolidays is built using the following technologies:
 - **💳 Stripe**: Secure payment gateways for processing online transactions.
 
 ### Hosting
-- **☁️ Render**: Cloud platform for hosting the web application.
+- **☁️ Railway**: Cloud platform for hosting the web application.
 
 ### Other Tools
 - **📦 npm**: Node package manager for managing dependencies.
